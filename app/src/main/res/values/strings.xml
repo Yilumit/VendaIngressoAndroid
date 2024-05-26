@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">venda-ingresso-android</string>
+    <string name="ingresso_comum">Ingresso Comum</string>
+    <string name="ingresso_vip">Ingresso Vip</string>
+    <string name="compra">Compra de Ingresso</string>
+    <string name="qntd_ingresso">Quantidade de Ingressos</string>
+    <string name="funcao">Funcao Desempenhada</string>
+    <string name="comprar">Comprar</string>
+    <string name="voltar">Voltar ao menu</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="codigo">Codigo</string>
+    <string name="real">R$</string>
+    <string name="tipo">Tipo</string>
+</resources>
